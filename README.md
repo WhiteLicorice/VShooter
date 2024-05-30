@@ -1,2 +1,2 @@
 # VShooter
- VShooter is a fan game project made using the Unity Game Engine as a partial requirement for CMSC 197.
+A roguelike arcade-style shooter made in the Unity3D engine. All assets and properties used in this project belong to their respective owners.
